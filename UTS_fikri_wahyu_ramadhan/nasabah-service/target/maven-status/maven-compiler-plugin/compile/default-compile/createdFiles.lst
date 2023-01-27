@@ -1,0 +1,5 @@
+com\fikri\Nasabah\service\Repository\NasabahRepository.class
+com\fikri\Nasabah\service\Service\NasabahService.class
+com\fikri\Nasabah\service\Controller\NasabahController.class
+com\fikri\Nasabah\service\Entity\Nasabah.class
+com\fikri\Nasabah\service\NasabahServiceApplication.class
