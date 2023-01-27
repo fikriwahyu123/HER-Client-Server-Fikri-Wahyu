@@ -1,0 +1,5 @@
+com\fikri\buku\service\BukuServiceApplication.class
+com\fikri\buku\service\Controller\BukuController.class
+com\fikri\buku\service\Repository\BukuRepository.class
+com\fikri\buku\service\Entity\Buku.class
+com\fikri\buku\service\Service\BukuService.class
